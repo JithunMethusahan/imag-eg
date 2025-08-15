@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Wallpaper Craft",
+  "description": "An application to generate custom wallpapers for desktop, phone, and tablet using AI. Users can provide a text prompt to craft unique images tailored to their device's aspect ratio.",
+  "requestFramePermissions": []
+}

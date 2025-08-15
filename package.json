@@ -1,0 +1,13 @@
+{
+  "name": "ai-wallpaper-craft-vercel",
+  "version": "1.0.0",
+  "description": "AI Wallpaper Craft application for Vercel deployment.",
+  "private": true,
+  "dependencies": {
+    "@google/genai": "^1.12.0"
+  },
+  "devDependencies": {
+    "@vercel/node": "^3.2.0",
+    "typescript": "^5.4.5"
+  }
+}
